@@ -1,6 +1,6 @@
 def str_func(word):
     return word.upper()
 
-word = str_func("high_str")
+word = str_func("high")
 
 print(word)
