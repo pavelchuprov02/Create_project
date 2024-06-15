@@ -2,7 +2,7 @@ def str_func(word):
     return word.upper()
 
 def new_func(word_tittle):
-    """Слово с заглавной буквы"""
+    """Слово с заглавной буквы."""
     return word.title()
 
 word = str_func("high_str")
